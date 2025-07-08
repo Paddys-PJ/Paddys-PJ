@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Paddys-PJ/Paddys-PJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Kian, a trainee design engineer at Eser International, specialising in piping engineering. I'm proficient in AutoCAD, Inventor, and other design tools.
 
-Here are some ideas to get you started:
+I'm currently teaching myself programming to develop practical tools that assist my work and to better understand and manage my daily workflows with better efficiency. Although I'm new to coding, I'm motivated to develop my skills and contribute valuable solutions to engineering tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **My primary focus areas:**
+- React
+- AutoCAD LISP commands  
+- HTML
+
+🔭 **I'm currently working on:** Expanding my pipe weight calculator and developing new AutoCAD automation tools
+
+🌱 **I'm currently learning:** React fundamentals and advanced LISP scripting
+
+💬 **Ask me about:** Engineering workflows, piping design, or automation ideas
+
+📫 **How to reach me:** Feel free to open an issue on any of my repositories about engineering, coding, or workflow automation
