@@ -5,8 +5,8 @@ Hi, I'm Kian, a trainee design engineer at Eserv International, specialising in 
 I'm currently teaching myself programming to develop practical tools that assist my work and to better understand and manage my daily workflows with better efficiency. Although I'm new to coding, I'm motivated to develop my skills and contribute valuable solutions to engineering tasks.
 
 🎯 **My primary focus areas:**
-- React
 - AutoCAD LISP commands  
+- React
 - HTML
 
 🔭 **I'm currently working on:** Expanding my pipe weight calculator and developing new AutoCAD automation tools
