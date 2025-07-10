@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Kian, a trainee design engineer at Eser International, specialising in piping engineering. I'm proficient in AutoCAD, Inventor, and other design tools.
+Hi, I'm Kian, a trainee design engineer at Eserv International, specialising in piping engineering. I'm proficient in AutoCAD, Inventor, and other design tools.
 
 I'm currently teaching myself programming to develop practical tools that assist my work and to better understand and manage my daily workflows with better efficiency. Although I'm new to coding, I'm motivated to develop my skills and contribute valuable solutions to engineering tasks.
 
